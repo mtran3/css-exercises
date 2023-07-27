@@ -1,0 +1,18 @@
+/* stylesheet */
+
+.black_background, 
+.yellow_background {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', Times, sans-serif;
+}
+
+.black_background {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.yellow_background{
+    background-color: #f0ce73;
+}
+
+
