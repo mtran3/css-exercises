@@ -1,0 +1,22 @@
+/* stylesheet */
+
+.odd {
+    background-color: rgb(229, 131, 146);
+    font-family: Verdana, "DejaVu Sans", sans-serif; 
+}
+
+.cool {
+    font-size: 24px; 
+}
+
+#one {
+    color: rgb(24, 69, 127); 
+    font-size: 36px; 
+}
+
+#another {
+    background-color: rgb(167, 228, 167);
+    font-size: 24px;
+    font-weight: bold;
+
+}
