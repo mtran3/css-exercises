@@ -1,15 +1,30 @@
+/* has information title */
 body {
   font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+/* doesn't need flex stuff */
+.title {
+  font-size: 36px;
+  font-weight: 900;
+  margin-bottom: 32px; 
+}
+
+/* make a container class for all four info divs together */
+.info-container {
+  display: flex;
+  justify-content: center;
+  gap: 52px; 
+}
+
+.info {
+  max-width: 200px; 
 }
 
 img {
   width: 100px;
   height: 100px;
-}
-
-.title {
-  font-size: 36px;
-  font-weight: 900;
 }
 
 /* do not edit this footer */
